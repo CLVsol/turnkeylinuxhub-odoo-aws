@@ -3,7 +3,7 @@ turnkeylinuxhub-odoo-aws
 
 This project will help you install `Odoo 8.0 <https://www.odoo.com/>`_  appliance, using the Amazon Web Services (AWS) EC2 infrastructure.
 
-This project is based on `Turnkey Odoo Appliance <https://github.com/turnkeylinux-apps/odoo>`_.
+This project is based on `Turnkey Odoo Appliance <https://github.com/turnkeylinux-apps/odoo>`_ project.
 
 #. Create a new Key Pair:
 
